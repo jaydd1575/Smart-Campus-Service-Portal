@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\controllers\\serviceapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:controllers\\serviceapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\views\\servicerequest\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:views\\servicerequest\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\dal\\servicerequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:dal\\servicerequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|e:\\be sem 5 - 2026-2027\\allclasses\\smartcampusportal\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2731F-7AF9-439D-B81F-171868E36AE8}|SmartCampusPortal.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T03:12:46.644Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRequestDAL.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\DAL\\ServiceRequestDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ServiceRequestDAL.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\DAL\\ServiceRequestDAL.cs",
+              "RelativeToolTip": "DAL\\ServiceRequestDAL.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T03:33:22.802Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:52:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:51:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T04:50:42.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceApiController.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Controllers\\ServiceApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceApiController.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Controllers\\ServiceApiController.cs",
+              "RelativeToolTip": "Controllers\\ServiceApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T03:12:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRequestController.cs",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Controllers\\ServiceRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestController.cs",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Controllers\\ServiceRequestController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T03:12:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Views\\ServiceRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceRequest\\Index.cshtml",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Views\\ServiceRequest\\Index.cshtml",
+              "RelativeToolTip": "Views\\ServiceRequest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T03:34:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Views\\ServiceRequest\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceRequest\\Create.cshtml",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Views\\ServiceRequest\\Create.cshtml",
+              "RelativeToolTip": "Views\\ServiceRequest\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T03:35:05.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStatus.cshtml",
+              "DocumentMoniker": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "ToolTip": "E:\\BE SEM 5 - 2026-2027\\AllClasses\\SmartCampusPortal\\Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "RelativeToolTip": "Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T03:35:27.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
